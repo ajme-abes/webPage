@@ -34,7 +34,7 @@ body{
 }
 .cont{
     margin-left: 200px;
-    display: flex table-column;
+    margin-top: -5px;
 }
 .top2{
     background-color: white;
