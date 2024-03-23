@@ -1,0 +1,99 @@
+body{
+    background: linear-gradient(to right , #f5e5b8, #f9cbdb, #ade0f9, #d7c0da, #d6d8c9);
+   margin: 0px;
+   padding: 0px;
+  
+}
+.container{
+    display: flex;
+    gap: 7px;
+}
+.left{
+
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-left: 100px;
+  gap: 10px;
+}
+.top{
+ display:flex ;
+ gap: 5px;
+ width: 800px;
+ height: 250px;
+ padding-top: 50px;
+ padding-left: 40px;
+ background-color: rgb(255, 255, 255, 0.3); 
+
+}
+
+.top1{
+  background-color: white;
+  width: 500px;
+  height: 230px;
+}
+.cont{
+    margin-left: 200px;
+    display: flex table-column;
+}
+.top2{
+    background-color: white;
+    width: 280px;
+    height: 230px;
+}
+.bottom{
+display: flex;
+padding-bottom: 50px;
+gap: 7px;
+}
+.bottom1{
+    background-color: rgb(255, 255, 255, 0.3); 
+    width: 275px;
+    height: 330px;
+}
+.bottom2{
+    background-color: rgb(255, 255, 255, 0.3); 
+    
+    width: 275px;
+    height: 330px;
+}
+.bottom3{
+    background-color: rgb(255, 255, 255, 0.3); 
+    background-color: rgb(255, 255, 255, 0.3); 
+    width: 275px;
+    height: 330px;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 100px;
+    
+}
+.right1{
+    background-color: rgb(255, 255, 255, 0.3);
+   width:  275px;
+   height: 140px;   
+}
+.right2{
+    background-color: rgb(255, 255, 255, 0.3);
+   width:  275px;
+   height: 140px; 
+   margin-top: 10px;
+}
+.right3{
+    background-color: rgb(255, 255, 255, 0.3); 
+ margin-top: 5px;
+    width: 275px;
+    height: 330px; 
+}
+.heading{
+    align-items: center;
+    margin-left: 40%;
+}
+.heading h4{
+   margin-left: 80px;
+   font-family: sans-serif;
+ letter-spacing: 3px;
+
+}
